@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "https://joshua131313.github.io/csb-xmzrv/static/css/main.ee91c25d.chunk.css",
+    "main.js": "https://joshua131313.github.io/csb-xmzrv/static/js/main.9e55319c.chunk.js",
+    "main.js.map": "https://joshua131313.github.io/csb-xmzrv/static/js/main.9e55319c.chunk.js.map",
+    "runtime-main.js": "https://joshua131313.github.io/csb-xmzrv/static/js/runtime-main.5ddecc65.js",
+    "runtime-main.js.map": "https://joshua131313.github.io/csb-xmzrv/static/js/runtime-main.5ddecc65.js.map",
+    "static/css/2.31b31262.chunk.css": "https://joshua131313.github.io/csb-xmzrv/static/css/2.31b31262.chunk.css",
+    "static/js/2.396f98ca.chunk.js": "https://joshua131313.github.io/csb-xmzrv/static/js/2.396f98ca.chunk.js",
+    "static/js/2.396f98ca.chunk.js.map": "https://joshua131313.github.io/csb-xmzrv/static/js/2.396f98ca.chunk.js.map",
+    "static/js/3.6425123e.chunk.js": "https://joshua131313.github.io/csb-xmzrv/static/js/3.6425123e.chunk.js",
+    "static/js/3.6425123e.chunk.js.map": "https://joshua131313.github.io/csb-xmzrv/static/js/3.6425123e.chunk.js.map",
+    "static/js/4.6f2c6303.chunk.js": "https://joshua131313.github.io/csb-xmzrv/static/js/4.6f2c6303.chunk.js",
+    "static/js/4.6f2c6303.chunk.js.map": "https://joshua131313.github.io/csb-xmzrv/static/js/4.6f2c6303.chunk.js.map",
+    "static/js/5.766ed29e.chunk.js": "https://joshua131313.github.io/csb-xmzrv/static/js/5.766ed29e.chunk.js",
+    "static/js/5.766ed29e.chunk.js.map": "https://joshua131313.github.io/csb-xmzrv/static/js/5.766ed29e.chunk.js.map",
+    "index.html": "https://joshua131313.github.io/csb-xmzrv/index.html",
+    "static/css/2.31b31262.chunk.css.map": "https://joshua131313.github.io/csb-xmzrv/static/css/2.31b31262.chunk.css.map",
+    "static/css/main.ee91c25d.chunk.css.map": "https://joshua131313.github.io/csb-xmzrv/static/css/main.ee91c25d.chunk.css.map",
+    "static/js/2.396f98ca.chunk.js.LICENSE.txt": "https://joshua131313.github.io/csb-xmzrv/static/js/2.396f98ca.chunk.js.LICENSE.txt",
+    "static/js/3.6425123e.chunk.js.LICENSE.txt": "https://joshua131313.github.io/csb-xmzrv/static/js/3.6425123e.chunk.js.LICENSE.txt",
+    "static/js/4.6f2c6303.chunk.js.LICENSE.txt": "https://joshua131313.github.io/csb-xmzrv/static/js/4.6f2c6303.chunk.js.LICENSE.txt",
+    "static/js/5.766ed29e.chunk.js.LICENSE.txt": "https://joshua131313.github.io/csb-xmzrv/static/js/5.766ed29e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5ddecc65.js",
+    "static/css/2.31b31262.chunk.css",
+    "static/js/2.396f98ca.chunk.js",
+    "static/css/main.ee91c25d.chunk.css",
+    "static/js/main.9e55319c.chunk.js"
+  ]
+}
